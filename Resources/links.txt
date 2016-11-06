@@ -1,0 +1,9 @@
+http://developer.samsung.com/gear
+
+http://denvycom.com/blog/heart-rate-gear2/
+
+https://developer.tizen.org/ko/development/api-references/web-application?redirect=/dev-guide/2.4/org.tizen.web.apireference/html/device_api/mobile/tizen/humanactivitymonitor.html&langredirect=1#HumanActivityHRMData
+
+https://web.archive.org/web/20160624034903/http://denvycom.com/blog/how-to-store-data-in-your-gear-2-apps/
+
+https://www.youtube.com/watch?v=oPrZ7VpLZ3o
